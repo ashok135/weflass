@@ -227,9 +227,9 @@ export default function Home() {
             </article>
             <article className="service">
               <span className="num">04</span>
-              <h3>Meta Ads Management</h3>
+              <h3>Digital Ads Management</h3>
               <p>Build and optimize Instagram and Facebook campaigns for awareness, leads, sales and growth.</p>
-              <div className="tags"><span className="tag">Campaigns</span><span className="tag">Targeting</span><span className="tag">Optimization</span></div>
+              <div className="tags"><span className="tag">Google Ads</span><span className="tag">Meta Ads</span><span className="tag">LinkedIn Ads</span></div>
             </article>
             <article className="service">
               <span className="num">05</span>
