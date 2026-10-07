@@ -1,25 +1,41 @@
-# weflass
+# WeFlass — Digital Growth Agency
 
-WeFlass — Digital Marketing Agency website built with React, Vite, Tailwind CSS, and GSAP.
+Modern, high-performance digital marketing agency web platform built with **Next.js (App Router)** and optimized responsive typography and motion.
 
 ## Features
-- Minimalist, high-contrast light theme with rich cold typography (Outfit, Plus Jakarta Sans, JetBrains Mono)
-- Google Gemini-style capabilities showcase with auto-advancing progress timers and single-card reveal
-- High-performance marketing analytics previews, live SERP tickers, and interactive CRO funnels
-- Continuous live case study marquee reel
-- Interactive monthly growth & ROI estimator
-- Direct WhatsApp & Phone call integration
-- Fully responsive across all devices
 
-## Development
+- **Hero Visual Interaction**: Magnetic interactive repulsion and animated ripple effects responsive to cursor movement and touch.
+- **Full-Funnel Agency Offerings**:
+  - Social Media Management
+  - Creator Monetization
+  - Personal Brand Strategy
+  - Meta Ads Management
+  - Content Marketing
+  - Influencer Marketing
+- **Responsive Architecture**: Fully mobile-optimized layout with dedicated drawer navigation, touch-friendly interactions, and adaptive dark philosophy showcase.
+- **Performance**: Static page generation powered by Next.js Turbopack.
+
+## Tech Stack
+
+- **Framework**: Next.js 16 (App Router)
+- **Library**: React 19 / ReactDOM 19
+- **Icons**: Lucide React
+- **Styling**: Modern CSS with CSS Variables, clamp typography, and micro-interactions
+
+## Getting Started
 
 ```bash
+# Install dependencies
 npm install
+
+# Run the local development server
 npm run dev
-```
 
-## Production Build
-
-```bash
+# Build for production
 npm run build
+
+# Start production server
+npm run start
 ```
+
+Visit [http://localhost:3000](http://localhost:3000) to view the live site.
